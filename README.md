@@ -6,7 +6,7 @@ Its primary function is to control the state of LEDs connected to a breadboard, 
 The project uses external libraries for handling button, joystick, and LED functionalities.
 
 
-Key Components:
+Key Components: 
 Arduino Uno board
 Potentiometer
 Joystick
